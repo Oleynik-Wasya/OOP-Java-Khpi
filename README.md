@@ -1,3 +1,7 @@
 # OOP-Java-Oleynik
-It is a repository for OOP-Java
-Hi!
+## Lab 1
+###Description:
+<p>It is a repository for OOP-Java</p>
+<blockquote>
+<p>Hi!</p>
+<blockquote>
