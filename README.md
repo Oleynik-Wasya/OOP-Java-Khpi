@@ -1,7 +1,4 @@
-# OOP-Java-Oleynik
-## Lab 1
-###Description:
-<p>It is a repository for OOP-Java</p>
-<blockquote>
-<p>Hi!</p>
-<blockquote>
+### OOP-Java-Oleynik
+Олейник Василий Максимович
+КИТ 101.8а
+Вариант: 9
