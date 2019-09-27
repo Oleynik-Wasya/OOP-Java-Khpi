@@ -69,7 +69,7 @@ public class LabOne {
 }
 ```
 **Вывод:**
->_character: I
+_character: I
 number: 9
 last two numbers: 19
 number: 9
