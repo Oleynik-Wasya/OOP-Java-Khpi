@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Travel>
+    <NameStation>Germany</NameStation>
+    <FreePlaces>20</FreePlaces>
+    <Start>07:00</Start>
+    <Stop>09:00</Stop>
+    <Places>
+        <Estop0>
+            <NameEstop>Fire1</NameEstop>
+            <StartEstop>07:30</StartEstop>
+            <StopEstop>07:35</StopEstop>
+        </Estop0>
+        <Estop1>
+            <NameEstop>Fire</NameEstop>
+            <StartEstop>07:30</StartEstop>
+            <StopEstop>07:35</StopEstop>
+        </Estop1>
+    </Places>
+    <Number>1</Number>
+    <CountPlaces>35</CountPlaces>
+    <Days>Friday Monday </Days>
+</Travel>
