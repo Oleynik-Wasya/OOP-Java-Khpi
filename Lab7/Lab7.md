@@ -185,7 +185,7 @@ enum DAYS {
 ```
 
 **Вывод:**
->Station Name: Германия</br>
+> _<p>Station Name: Германия</br>
 Station Number: 1</br>
 Count of places: 35</br>
 Works on: Friday Monday </br>
@@ -193,6 +193,6 @@ Count of Free Places: 20</br>
 Estops:</br>
 Fire {07:30=07:35}</br>
 Start: 07:00</br>
-Stop: 09:00</br>
+Stop: 09:00</br></p>_
 
 **Висновок:**  Використав об’єктно-орієнтованний підхід для розробки об’єкта предметної (прикладної) галузі.

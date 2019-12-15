@@ -448,9 +448,9 @@ public class WriteTravell {
 ```
 
 **Вывод:**
-> _<p>1) Записать объект</br>
-2) Считать объект</br>
-3) Выйти</br>
+>_<p>1)Записать объект</br>
+2)Считать объект</br>
+3)Выйти</br>
 2</br>
 Введите путь: /home/wasya/IdeaProjects/LabAcht/temp.xml</br>
 Travel</br>
