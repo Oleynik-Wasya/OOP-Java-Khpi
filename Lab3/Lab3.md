@@ -85,13 +85,13 @@ public class CounterWords {
 }
 ```
 **Вывод:**
-> [1, 3, 2, 1, 1, 1]</br>
+> _<p>[1, 3, 2, 1, 1, 1]</br>
        How         1</br>
         hi         3</br>
      world         2</br>
      Hello         1</br>
        are         1</br>
        you         1</br>
-Hello world How are you world hi hi hi</br>
+Hello world How are you world hi hi hi</br></p>_
 
 **Висновок:** Набув навичок вирішення прикладних задач з використанням масивів і рядків.

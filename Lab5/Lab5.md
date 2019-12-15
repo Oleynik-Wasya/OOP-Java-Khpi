@@ -192,7 +192,7 @@ public class RawData implements Collection{
 ```
 
 **Вывод:**
->_#Print data by for each..</br>
+>_<p>#Print data by for each..</br>
 Buenos Aires Córdoba La Plata hello Hi </br>
 #Add new string..</br>
 Buenos AiresCórdobaLa PlatahelloHiAdded string</br>
@@ -205,6 +205,6 @@ Buenos AiresCórdobaLa PlatahelloAdded string</br>
 4)hello</br>
 5)Added string</br>
 #Use size..</br>
-Size of rawData = 5</br>
+Size of rawData = 5</br></p>_
 
 **Висновок:** Набув навичок розробки власних контейнерів. Використав ітератори.
