@@ -69,17 +69,17 @@ public class LabOne {
 }
 ```
 **Вывод:**
-_character: I
-number: 9
-last two numbers: 19
-number: 9
-phone: 380997965819
-Count of even(phone): 4
-Count of even(last_two_numbers): 0
-Count of even(number): 0
-Count of one in phone: 26
-Count of one in number: 2
-Count of one in last_two_numbers: 3_
+>_<p>character: I</br>
+number: 9</br>
+last two numbers: 19</br>
+number: 9</br>
+phone: 380997965819</br>
+Count of even(phone): 4</br>
+Count of even(last_two_numbers): 0</br>
+Count of even(number): 0</br>
+Count of one in phone: 26</br>
+Count of one in number: 2</br>
+Count of one in last_two_numbers: 3</p>_
 
 **Висновок:** ознайомився з JDK платформи Java SE та середовищем розробки Eclipse IDE.
 
